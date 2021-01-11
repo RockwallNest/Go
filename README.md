@@ -14,4 +14,4 @@ $ cd Go <br>
 $ go run fetch_bitflyer_info.go <br>
 
 # Copyright 
-Copyright 2020 RockwallNest. This software is released under the MIT License. <br>
+Copyright &copy; 2020 RockwallNest. This software is released under the MIT License. <br>
