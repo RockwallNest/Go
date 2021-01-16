@@ -17,15 +17,7 @@ type jsonData struct {
 }
 
 func main() {
-  /*
-  url := "https://api.bitflyer.com/v1/ticker?product_code=ETH_JPY"
   
-  resp, err := http.Get(url)
-  if err != nil {
-    log.Printf("ERROR: %s", err)
-  }
-  */
- 
   url := "https://api.bitflyer.com/v1/ticker"
 
   req, err := http.NewRequest("GET", url, nil)
