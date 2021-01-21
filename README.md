@@ -11,9 +11,11 @@ ticker情報を取得するAppです。<br>
 go version go1.15.5 darwin/amd64 <br>
 
 # Usage 
-$ git clone https://github.com/RockwallNest/Go.git <br>
-$ cd Go <br>
-$ go run fetch_bitflyer_info.go <br>
+```
+$ git clone https://github.com/RockwallNest/Go.git 
+$ cd Go 
+$ go run fetch_bitflyer_info.go 
+```
 
 # Copyright 
 Copyright &copy; 2020 RockwallNest. This software is released under the MIT License. <br>
